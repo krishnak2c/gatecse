@@ -5,7 +5,7 @@ import ChannelBox from "@/components/ChannelBox";
 
 export default async function Home() {
   const { stargazers_count: stars } = await fetch(
-    "https://api.github.com/repos/PritishMishraa/gatecsetracker",
+    "https://api.github.com/repos/krishnak2c/gatecse",
     {
       next: { revalidate: 86400 },
     }

@@ -64,7 +64,7 @@ const Meteors = ({ stars }: { stars: number }) => {
         >
           <a
             className="flex max-w-fit items-center justify-center space-x-2 rounded-full px-5 py-2 text-sm"
-            href="https://github.com/PritishMishraa/gatecsetracker"
+            href="https://github.com/krishnak2c/gatecse"
             target="_blank"
             rel="noopener noreferrer"
           >

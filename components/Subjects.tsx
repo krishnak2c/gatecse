@@ -79,7 +79,7 @@ const SUBJECTS: {
     icon: <BarChart4 className="h-6 w-6" />,
   },
   {
-    title: "Data Structure",
+    title: "Data Structure & Algorithms",
     slug: "ds",
     description:
       "This subject covers the study of data organization and efficient algorithms.",
@@ -93,7 +93,7 @@ const SUBJECTS: {
     icon: <CheckSquare className="h-6 w-6" />,
   },
   {
-    title: "Engineering Mathematics",
+    title: "Engineering Mathematics (PW)",
     slug: "em",
     description:
       "This subject covers the study of mathematical concepts and their applications in engineering.",
@@ -107,7 +107,7 @@ const SUBJECTS: {
     icon: <FileTerminalIcon className="h-6 w-6" />,
   },
   {
-    title: "Algorithms",
+    title: "Algorithms (Gate Academy)",
     slug: "algo",
     description:
       "This subject covers the study of designing and building algorithms.",

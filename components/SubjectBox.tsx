@@ -4,10 +4,9 @@ import InfiniteMarquee from "./InfiniteMarquee";
 
 const subjects = [
   "Aptitude",
-  "Algorithms",
   "Digital Logic",
   "C Programming",
-  "Data Structure",
+  "Data Structure & Algorithms",
   "Compiler Design",
   "Operating System",
   "Computer Network",

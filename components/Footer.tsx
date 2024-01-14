@@ -3,7 +3,7 @@ const Footer = () => {
     <div className="container py-6 md:flex md:items-center md:justify-between">
       <div className="flex md:space-x-6 space-x-1 md:order-2">
         <a
-          href="https://twitter.com/PritishhMishraa"
+          href="https://twitter.com/krishnak2c"
           target="_blank"
           rel="noopener noreferrer"
         >
@@ -13,7 +13,7 @@ const Footer = () => {
           </svg>
         </a>
         <a
-          href="https://github.com/PritishMishraa"
+          href="https://github.com/krishnak2c"
           target="_blank"
           rel="noopener noreferrer"
         >
@@ -27,7 +27,7 @@ const Footer = () => {
           </svg>
         </a>
       </div>
-      <p className="mt-1 text-base md:mt-0 md:order-1">2023 Pritish Mishra</p>
+      <p className="mt-1 text-base md:mt-0 md:order-1">2023 Krishna Choudhary</p>
     </div>
   );
 };
