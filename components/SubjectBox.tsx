@@ -15,6 +15,7 @@ const subjects = [
   "Engineering Mathematics",
   "Database Management System",
   "Computer Organization & Architecture",
+  "Java Programming",
 ];
 
 const SubjectBox = () => {

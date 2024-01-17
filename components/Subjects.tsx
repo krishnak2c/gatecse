@@ -58,6 +58,13 @@ const SUBJECTS: {
     icon: <Code className="h-6 w-6" />,
   },
   {
+    title: "Java Programming",
+    slug: "jp",
+    description:
+      "This subject involves learning the Java programming language and its applications.",
+    icon: <Code className="h-6 w-6" />,
+  },
+  {
     title: "Digital Logic",
     slug: "dl",
     description:

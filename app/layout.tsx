@@ -18,7 +18,7 @@ export default function RootLayout({
   return (
     <html lang="en">
       <head>
-        <meta property="og:url" content="https://gatecsetracker.vercel.app/" />
+        <meta property="og:url" content="https://gatecse.vercel.app/" />
         <meta property="og:type" content="website" />
         <meta property="og:title" content="GATE CSE Tracker" />
         <meta
@@ -34,7 +34,7 @@ export default function RootLayout({
         <meta property="twitter:domain" content="gatecsetracker.vercel.app" />
         <meta
           property="twitter:url"
-          content="https://gatecsetracker.vercel.app/"
+          content="https://gatecse.vercel.app/"
         />
         <meta name="twitter:title" content="GATE CSE Tracker" />
         <meta
